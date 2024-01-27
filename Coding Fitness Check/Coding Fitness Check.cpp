@@ -1,3 +1,4 @@
+// CODE MADE BY _sm0 ALL CREDIT GOES TO HIM
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
